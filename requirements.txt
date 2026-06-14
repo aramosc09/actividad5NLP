@@ -1,0 +1,10 @@
+# Indexado y RAG (rag_index.py)
+chromadb
+markitdown[pdf]
+sentence-transformers
+
+# Chatbot + cadena LangChain (chatbot.py)
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-ollama
