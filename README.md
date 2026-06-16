@@ -1,5 +1,7 @@
 # actividad5NLP — Chatbot con RAG y LLM
 
+Archivo principal para la entrega de la actividad: `MNA_NLP_actividad_chatbot_LLM_RAG_R.ipynb`
+
 Chatbot que responde preguntas sobre los **Informes Trimestrales 2025** combinando un
 LLM local (vía [Ollama](https://ollama.com/)) con **Recuperación Aumentada Generativa
 (RAG)** sobre una base vectorial [Chroma](https://www.trychroma.com/).
